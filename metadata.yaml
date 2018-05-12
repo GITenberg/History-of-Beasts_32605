@@ -1,0 +1,32 @@
+_repo: History-of-Beasts_32605
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32605-h/images/frontcover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild
+gutenberg_issued: '2010-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32605'
+  lccn: '2013656741'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Animals -- Juvenile literature'
+tableOfContents: The cat -- The dog -- The cow -- The fox -- The goat -- The horse
+  -- The ass -- The lamb -- The sheep -- The lion -- The tiger -- The serpent -- The
+  reindeer.
+title: History of Beasts
+url: http://www.gutenberg.org/ebooks/32605
