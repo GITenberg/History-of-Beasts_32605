@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'QL'
 - !lcsh 'Animals -- Juvenile literature'
+- GITenberg
 tableOfContents: The cat -- The dog -- The cow -- The fox -- The goat -- The horse
   -- The ass -- The lamb -- The sheep -- The lion -- The tiger -- The serpent -- The
   reindeer.
